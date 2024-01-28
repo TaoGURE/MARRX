@@ -35,9 +35,6 @@
 <<<<<<< HEAD
     <a href="https://m.facebook.com/login/?locale=es_ES&refsrc=deprecated" target="_blank">INGRESA A FACEBOOK EN TAN SOLO UN CLICK</a> 
     </br>
-=======
-    <a href="https://m.facebook.com/login/?locale=es_ES&refsrc=deprecated" target="_blank">INGRESA A FACEBOOK EN TAN SOLO UN CLICK</a>
->>>>>>> 60f0f51bd76df16368fd60ffeea4e7beccdef96a
  <button onclick="buttonclicked">click me</button>
  </body>
  </html>
