@@ -14,7 +14,6 @@
           Estamos listo</p>
       <div class="segundodiv">
       <hr>
-      
           <h2> encabezado 2 </h2>
         <h3> encabezado 3 </h3>
       </div>
