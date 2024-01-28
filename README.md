@@ -13,7 +13,7 @@
           <p>Busca y en cuentra lo que mas te gusta en un solo sitio.<br>
           Precios y ofertas MAS BAJOS QUE TUS OPORTUNIDADES CON ELLA.<br> 
           Accede ingresando con tan solo tu correo electronico.<br>
-          <button onclick="buttonClicked()">ENLACE SUGERIDO</button><br>
+          <button onclick="buttonClicked()">ENLACE SUGERIDO</button>
           (haga click en el enlace)<br>
           Estamos listo</p>
       <div class="segundodiv">
