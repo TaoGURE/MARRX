@@ -1,0 +1,5 @@
+function buttonClicked() {
+     numButtonClicks = numButtonClicks + 1;
+    document.getElementById("maindiv").textContent =
+    "Button Clicked times; " + numButtonClicks;
+}

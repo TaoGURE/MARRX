@@ -5,11 +5,12 @@
 </head>
 <body> 
     <div>
+    <a>
         <h1> encabezado 1 </h1>
         <hr>
           <p>Busca y en cuentra lo que mas te gusta en un solo sitio.<br>
           Precios y ofertas MAS BAJOS QUE TUS OPORTUNIDADES CON ELLA.<br> 
-          Accede ingresando con tan solo tu correo electrÃ³nico.<br>
+          Accede ingresando con tan solo tu correo electronico.<br>
           (haga click en el enlace)<br>
           Estamos listo</p>
       <div class="segundodiv">
