@@ -2,15 +2,18 @@
 <html lang="en">
 <head>
     <title>YAKEDA</title>
+    <link rel="stylesheet" href="estilos.css />
+    <script src="script.js"></sript>
 </head>
 <body> 
     <div>
     <a>
-        <h1> encabezado 1 </h1>
+        <h1> MUNDO WEEDOPE </h1>
         <hr>
           <p>Busca y en cuentra lo que mas te gusta en un solo sitio.<br>
           Precios y ofertas MAS BAJOS QUE TUS OPORTUNIDADES CON ELLA.<br> 
           Accede ingresando con tan solo tu correo electronico.<br>
+          <button onclick="buttonClicked()">ENLACE SUGERIDO</button><br>
           (haga click en el enlace)<br>
           Estamos listo</p>
       <div class="segundodiv">
