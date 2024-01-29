@@ -23,7 +23,7 @@
       <hr>
           <h2> CLASES DE AGRICULTURA </h2>
           <hr>
-          <p> Muchas personas creen que los osos polares están en peligro de extinción, pero la denominación correcta sobre la situación de esta especie es que están en situación de conservación vulnerable. De todas formas, es necesario que se actúe rápidamente para evitar que esta especie desaparezca.</p> <br>
+          <p> Muchas personas creen que los osos polares están en peligro de extinción, pero la denominación correcta sobre la situación de esta especie es que están en situación de conservación vulnerable. De todas formas, es necesario que se actúe rápidamente para evitar que esta especie desaparezca FCC.</p> <br>
         <h3> CURSOS DE AGROPECUARIA </h3>
         <hr>
       </div>
