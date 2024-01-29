@@ -1,5 +1,5 @@
 <%@ Language=Language_secuencia_comandos %>
-function buttonClicked() {
+     function buttonClicked() {
      numButtonClicks = numButtonClicks + 1;
     document.getElementById("maindiv").textContent =
     "Button Clicked times; " + numButtonClicks;
