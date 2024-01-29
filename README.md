@@ -16,8 +16,7 @@
           Precios y ofertas MAS BAJOS QUE TUS OPORTUNIDADES CON ELLA.<br> 
           Accede ingresando con tan solo tu correo electronico aqui abajo.<br>
           <a href="https://merchants.rappi.com/es-pe" "target="_blank"><br>RAPPI CUPON GRATIS</a><br>
-       (haga click en el enlace)<br>
-          Estamos listo GH</p>
+       <button>Haga click</button><br></p>
       <div>
       <hr>
           <h2> CLASES DE AGRICULTURA </h2>
@@ -25,17 +24,17 @@
           <p> Muchas personas creen que los osos polares están en peligro de extinción, pero la denominación correcta sobre la situación de esta especie es que están en situación de conservación vulnerable. De todas formas, es necesario que se actúe rápidamente para evitar que esta especie desaparezca FC.</p> <br> 
           <hr>
         <h3>Redes Sociales</h3>
-        <a href="https://twitter.com/?lang=es" target="_blank">TWITTER</a><br>
-        <a href="https://m.facebook.com/login/?locale=es_ES&refsrc=deprecated" target="_blank">FACEBOOK</a><br>
-        <a href="https://www.instagram.com/" target="_blank">INSTAGRAM</a><br>
-        <a href="https://www.tiktok.com/es/" target="_blank">TIKTOK</a><br>
+        <button><a href="https://twitter.com/?lang=es" target="_blank">TWITTER</a></button><br>
+        <button><a href="https://m.facebook.com/login/?locale=es_ES&refsrc=deprecated" target="_blank">FACEBOOK</a></button><br>
+        <button><a href="https://www.instagram.com/" target="_blank">INSTAGRAM</a></button><br>
+        <button><a href="https://www.tiktok.com/es/" target="_blank">TIKTOK</a></button><br>
         <hr>
       </div>
       </div>
 <div>
     <h4> BIOGRAFIA </h4><br>
     <p>Los derechos humanos son derechos inherentes a todas las personas, es decir, que una persona tiene estos derechos por el hecho de ser persona. Algunos de estos derechos son el derecho a la vida, el derecho a la libertad y el derecho a la libre expresión.</p>
-    <h5> INFORMACIÓN UTIL </h5><br>
+     <h5> INFORMACIÓN UTIL </h5><br>
     <p>Este sábado se jugará la final del torneo de fútbol. Este evento es muy importante para los deportistas y para los fanáticos, porque se decidirá qué equipo es el campeón nacional de este año. Es muy difícil hacer un pronóstico del resultado, porque ambos equipos tienen muy buenos jugadores.</p>
     <h6> CARRERAS PROFESIONALES </h6><br>
     Los especialistas recomiendan que se mejore el tratamiento de la basura lo antes posible, ya que un buen tratamiento de la basura es fundamental para que se reduzca la contaminación. Por eso, es indispensable que se pueda organizar un sistema para recuperar los desechos reciclables.</p>
