@@ -17,7 +17,7 @@
           Accede ingresando con tan solo tu correo electronico.<br>
           <a href="https://merchants.rappi.com/es-pe" "target="_blank"><br>RAPPI CUPON GRATIS</a><br>
        (haga click en el enlace)<br>
-          Estamos listo</p>
+          Estamos listo GH</p>
       <div>
       <hr>
           <h2> CLASES DE AGRICULTURA </h2>
