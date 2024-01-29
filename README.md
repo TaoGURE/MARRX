@@ -6,7 +6,6 @@
     <meta name="wiewport" content="width=device-width, initial-scale=1.0">
     <title>YAKEDA</title>
     <link rel="stylesheet" href="estilos.css"/>
-    <script src="script.js"><sript>
 </head>
 <body> 
     <div>
@@ -17,7 +16,7 @@
           Precios y ofertas MAS BAJOS QUE TUS OPORTUNIDADES CON ELLA.<br> 
           Accede ingresando con tan solo tu correo electronico.<br>
           <a href="https://merchants.rappi.com/es-pe" "target="_blank"><br>RAPPI CUPON GRATIS</a><br>
-(haga click en el enlace)<br>
+       (haga click en el enlace)<br>
           Estamos listo</p>
       <div class="segundodiv">
       <hr>
@@ -44,7 +43,7 @@
     <link> 
     <a href="https://m.facebook.com/login/?locale=es_ES&refsrc=deprecated" target="_blank">INGRESA A FACEBOOK EN TAN SOLO UN CLICK</a> 
     </br>
-           <button>INGRESE</button>
- <p> COMENTARIOS </p>
+              <button>INGRESE</button>
+     <p> COMENTARIOS </p>
  </body>
  </html>
