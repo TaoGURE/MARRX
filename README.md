@@ -5,8 +5,8 @@
     <meta http-equip="X-UA-Compatible" content="IE=edge">
     <meta name="wiewport" content="width=device-width, initial-scale=1.0">
     <title>YAKEDA</title>
-    <link rel="stylesheet" href="estilos.css />
-    <script src="script.js"></sript>
+    <link rel="stylesheet" href="estilos.css"/>
+    <script src="script.js"><sript>
 </head>
 <body> 
     <div>
