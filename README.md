@@ -18,12 +18,16 @@
           <a href="https://merchants.rappi.com/es-pe" "target="_blank"><br>RAPPI CUPON GRATIS</a><br>
        (haga click en el enlace)<br>
           Estamos listo</p>
-      <div class="segundodiv">
+      <div>
       <hr>
           <h2> CLASES DE AGRICULTURA </h2>
           <hr>
           <p> Muchas personas creen que los osos polares están en peligro de extinción, pero la denominación correcta sobre la situación de esta especie es que están en situación de conservación vulnerable. De todas formas, es necesario que se actúe rápidamente para evitar que esta especie desaparezca FCC.</p> <br>
         <h3> CURSOS DE AGROPECUARIA </h3>
+        <a href="https://twitter.com/?lang=es" target="_blank">TWITTER</a>
+        <a href="https://m.facebook.com/login/?locale=es_ES&refsrc=deprecated" target="_blank">FACEBOOK</a>
+        <a href="https://www.instagram.com/" target="_blank">INSTAGRAM</a>
+        <a href="https://www.tiktok.com/es/" target="_blank">TIKTOK</a>
         <hr>
       </div>
       </div>
