@@ -41,7 +41,9 @@
     <link> 
     <a href="https://m.facebook.com/login/?locale=es_ES&refsrc=deprecated" target="_blank">INGRESA A FACEBOOK EN TAN SOLO UN CLICK</a> 
     </br>
-           <button onclick="buttonclicked">click me</button>
+    
+           <button>click me</button>
+
  <p> COMENTARIOS </p>
  </body>
  </html>
