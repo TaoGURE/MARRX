@@ -37,7 +37,7 @@
 </div>
     <p> (p)parrafo (br)salto de linea (hr)linea de separacion (img) imagen (href)atributo de pegar enlace y abrirse en la misma pagina (target) atributo de hacer que el enlace se habra en otra pestaña</a></p>
     <p> vamos a El hotel del centro es el más antiguo del pueblo y también es aquel que tiene más comodidades. Este hotel fue construido en 1911, pero primero se utilizó como casa de familia. En 1975 un inversionista compró esta propiedad y la reformó para transformarla en el hotel que hoy conocemos. Es un hotel pequeño,SRRER pero cuenta con servicio a la habitación, con pileta climatizada, con un restaurante de categoría, entre otras cosas.<br>
-     La famosa banda de rock se separó, al menos por un tiempo. Los integrantes declararon en diversos medios que no hubo una pelea, sino que quieren trabajar un tiempo como solitas. Además, en una rueda de prensa, el representante dijo que es probable que el año próximo los músicos se vuelvan a juntar para hacer una gira.</p>
+     La famosa banda de rock se separó, al menos por un tiempo. Los integrantes declararon en diversos medios que no hubo una pelea, sino que quieren trabajar un tiempo como solitas. Además, en una rueda de prensa, el representante dijo que es probable que el año próximo los músicos se vuelvan a juntar para hacer una gira pronto.</p>
     <hr> 
     <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F81OYRZEQG7L._AC_UF1000%2C1000_QL80_.jpg&tbnid=kHKYnyaW7FDDKM&vet=1&imgrefurl=https%3A%2F%2Fwww.amazon.es%2FSolo-Leveling-Vol-comic-Comic%2Fdp%2FB0CCNFZQ1L&docid=Squ4szgTweEK6M&w=697&h=1000&itg=1&source=sh%2Fx%2Fim%2Fm4%2F6&kgs=72c7498ea5e8cd27imgrc=OL0qZGwqtUrKuM&imgdii=kHKYnyaW7FDDKM" alt="solo leveling">
     <link> 
