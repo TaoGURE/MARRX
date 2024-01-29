@@ -13,8 +13,7 @@
           <p>Busca y en cuentra lo que mas te gusta en un solo sitio.<br>
           Precios y ofertas MAS BAJOS QUE TUS OPORTUNIDADES CON ELLA.<br> 
           Accede ingresando con tan solo tu correo electronico.<br>
-          <a href="https://merchants.rappi.com/es-pe" "target="_blank"><br>
-              RAPPI CUPON GRATIS</a><br>
+          <a href="https://merchants.rappi.com/es-pe" "target="_blank"><br>RAPPI CUPON GRATIS</a><br>
 (haga click en el enlace)<br>
           Estamos listo</p>
       <div class="segundodiv">
