@@ -22,8 +22,9 @@
       <hr>
           <h2> CLASES DE AGRICULTURA </h2>
           <hr>
-          <p> Muchas personas creen que los osos polares están en peligro de extinción, pero la denominación correcta sobre la situación de esta especie es que están en situación de conservación vulnerable. De todas formas, es necesario que se actúe rápidamente para evitar que esta especie desaparezca FCC.</p> <br>
-        <h3> CURSOS DE AGROPECUARIA </h3>
+          <p> Muchas personas creen que los osos polares están en peligro de extinción, pero la denominación correcta sobre la situación de esta especie es que están en situación de conservación vulnerable. De todas formas, es necesario que se actúe rápidamente para evitar que esta especie desaparezca FCC.</p> <br> 
+          <hr>
+        <h3>Redes Sociales</h3>
         <a href="https://twitter.com/?lang=es" target="_blank">TWITTER</a><br>
         <a href="https://m.facebook.com/login/?locale=es_ES&refsrc=deprecated" target="_blank">FACEBOOK</a><br>
         <a href="https://www.instagram.com/" target="_blank">INSTAGRAM</a><br>
@@ -50,4 +51,16 @@
               <button>INGRESE</button>
      <p> COMENTARIOS </p>
  </body>
+ <hr>
+ <h2>¿Que es MUNDO WEEDOPE?</h2>
+ <p>MUNDO WEEDOPE es un foro específicamente para las personas que les gusta pasar un dia de campo acompañado(a) de personas que comparten el mismo estilo de vida hacerca del consumo de Canabis(marihuana).
+ <div>
+ <h6>Como puedo contactarme con mas usuarios que vivan cerca?</h6>
+ <p>parrafo por rellenar</p>
+
+
+
+
+ </div>
+ <h6>Registrate gratis con tan solo:</h6>
  </html>
