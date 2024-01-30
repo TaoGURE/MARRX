@@ -75,11 +75,7 @@
  <p>parrafo por rellenar</p>
     </div>
 <div class="padre">
-
-
-
-
-
+YA LLEGO LO QUE ESPERABAS. 
 </div>
  <h6>Registrate gratis con tan solo:</h6>
 </body>
