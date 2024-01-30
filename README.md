@@ -8,8 +8,8 @@
     <link rel="stylesheet" href="estilos.css">
 </head>
 <body> 
+    <div class="primerdiv">
         <h1> MUNDO WEEDOPE </h1>
-    <div>
           <p>Busca y en cuentra lo que mas te gusta en un solo sitio.<br>
           Precios y ofertas MAS BAJOS  QUE TUS OPORTUNIDADES CON ELLA.<br>
           Accede ingresando con tan solo tu correo electronico aqui abajo.</p>
@@ -22,7 +22,7 @@
     </div>
 <hr>
           <h2> CLASES DE AGRICULTURA </h2>
-    <div>   
+    <div class="divxx">   
           <p> Muchas personas creen que los osos polares están en peligro de extinción, pero la denominación correcta sobre la situación de esta especie es que están en situación de conservación vulnerable. De todas formas, es necesario que se actúe rápidamente para evitar que esta especie desaparezca FC.</p>
     </div>
 <hr>
