@@ -74,9 +74,14 @@
     <div>
  <p>parrafo por rellenar</p>
     </div>
+    <div class="padre">
 
 
 
+
+
+    
+    </div>
  <h6>Registrate gratis con tan solo:</h6>
 </body>
 </html>
