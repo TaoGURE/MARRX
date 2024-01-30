@@ -2,6 +2,7 @@
     "recommendations": [
         "ms-ceintl.vscode-language-pack-es",
         "miladfathy.css-snippet-complate",
-        "claudius.classic-terminal"
+        "claudius.classic-terminal",
+        "seonglae.terminal-intuiter"
     ]
 }
