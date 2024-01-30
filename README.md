@@ -78,6 +78,6 @@
 <p>YA LLEGO LO QUE ESPERABAS.</p>
 </div>
  <h6>Registrate gratis con tan solo:</h6>
- <p>TERRITORIO</p>
+ <p>TERRITORIO FDFR</p>
 </body>
 </html>
