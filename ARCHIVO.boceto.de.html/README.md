@@ -5,7 +5,7 @@
 <head>
 <body>
        <h1>INGRESAR DATOS PERSONALES</h1>
-    <form>
+    <form action="/formulario" method="GET">
     <label for="Nombre">Nombre</label>
     <input type="text" id="Nombre" name="nombre" placeholder="Nombre"/>
       <br>
@@ -18,17 +18,8 @@
     <label for="Password">Contraseña</label>
     <input type="password" id="password" name="password" placeholder="Password"/>
       <br>
-    <label for="radio">Aceptar</label>
-    <input type="radio"/>
-      <br>
-    <label for="checkbox">Verdadero<label/>
-    <input type="checkbox"/><br>
-    <label for="checkbox">Falso<label/>
-    <input type="checkbox">
-    <br>
     <label for="file">Archivo</label>
     <input type="file">
-    <br>
     <br>
     <label for="comentario">COMENTARIO</label><br>
     <textarea cols="50" rows="10" id="comentario" placeholder="comentario" name="comentario"></textarea>
@@ -61,5 +52,17 @@
      </h4>
     <hr>
     <img src="img/zoro.jpg" alt="zoro roronoa" height="1300">
+    <br>
+    <br>
+   <h3> Extensiones de (input ; /input) para formularios</h3>
+    <form>
+    <label for="radio">Aceptar</label>
+    <input type="radio"/>
+      <br>
+    <label for="checkbox">Verdadero<label/>
+    <input type="checkbox"/><br>
+    <label for="checkbox">Falso<label/>
+    <input type="checkbox">
+    </form>
 </body>
-</html>
+</html
