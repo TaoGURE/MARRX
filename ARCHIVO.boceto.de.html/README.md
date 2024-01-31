@@ -4,6 +4,10 @@
     <title>mi primera web</title>
 <head>
 <body>
+    <form>
+    <label for="Nombre">Nombre</label>
+    <input id="Nombre" name="Nombre" pleaceholde="Nombre"/>
+    </form>
     <h1>Primer encabezado o titulo</h1>
     <h2>Segundo encabezado o subtitulo</h2>
     <h3>Tercer encabezado</h3>
