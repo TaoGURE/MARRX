@@ -4,7 +4,7 @@
     <title>mi primera web</title>
 <head>
 <body>
-    <form action="/formulario" method="POST">
+    <form action="/formulario" method="GET">
     <label for="Nombre">Nombre</label>
     <input type="text" id="Nombre" name="nombre" placeholder="Nombre"/>
       <br>
@@ -44,7 +44,7 @@
     <img src="img/zoro.jpg" alt="zoro roronoa" height="1300">
     <br>
     <br>
-   <h3> Extensiones de (input ; /input) para formularios</h3>
+   <h3> Extensiones de (input; type) para formularios; (form; action= y method=) obligatorio que vaya con form</h3>
     <form>
     <label for="radio">Aceptar</label>
     <input type="radio"/>
