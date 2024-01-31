@@ -31,6 +31,10 @@
     <br>
     <label for="file">Archivo</label>
     <input type="file">
+    <br>
+    <br>
+    <label for="comentario">COMENTARIO</label><br>
+    <textarea rows="10" id="comentario" placeholder="comentario" name="comentario"></textarea>
     </form>
     <hr>
     <h1>Primer encabezado o titulo</h1>
