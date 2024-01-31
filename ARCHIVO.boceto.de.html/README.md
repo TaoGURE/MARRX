@@ -10,15 +10,6 @@
       <br>
     <label for="Apellido">Apellido</label>
     <input type="text" id="apellido" name="apellido" placeholder="Apellido"/>
-      <br>
-    <label for="Email">Correo</label>
-    <input type="email" id="email" name="Email" placeholder="Email"/>
-      <br>
-    <label for="Password">Contraseña</label>
-    <input type="password" id="password" name="password" placeholder="Password"/>
-      <br>
-    <label for="file">Archivo</label>
-    <input type="file">
     <br>
     <label for="comentario">COMENTARIO</label><br>
     <textarea cols="50" rows="10" id="comentario" placeholder="comentario" name="comentario"></textarea>
@@ -62,6 +53,16 @@
     <input type="checkbox"/><br>
     <label for="checkbox">Falso<label/>
     <input type="checkbox">
+   <br>
+    <label for="Email">Correo</label>
+    <input type="email" id="email" name="Email" placeholder="Email"/>
+      <br>
+    <label for="Password">Contraseña</label>
+    <input type="password" id="password" name="password" placeholder="Password"/>
+      <br>
+    <label for="file">Archivo</label>
+    <input type="file">
+    <br>
     </form>
 </body>
 </html
