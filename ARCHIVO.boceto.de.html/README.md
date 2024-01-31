@@ -7,8 +7,13 @@
        <h1>INGRESAR DATOS PERSONALES</h1>
     <form>
     <label for="Nombre">Nombre</label>
-    <input type="text" id="Nombre" name="Nombre" placeholder="Nombre y Apellido"/> 
-    </form>
+    <input type="text" id="Nombre" name="nombre" placeholder="Nombre"/>
+    </form> 
+      <br>
+    <form>
+    <label for="Apellido">Apellido</label>
+    <input type="text" id="apellido" name="apellido" placeholder="Apellido"/>
+    </form> 
       <br>
     <form>
     <label for="Click"></label>
