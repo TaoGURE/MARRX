@@ -4,14 +4,42 @@
     <title>mi primera web</title>
 <head>
 <body>
+       <h1>INGRESAR DATOS PERSONALES</h1>
     <form>
     <label for="Nombre">Nombre</label>
-    <input id="Nombre" name="Nombre" pleaceholde="Nombre"/>
+    <input type="text" id="Nombre" name="Nombre" placeholder="Nombre y Apellido"/> 
     </form>
+      <br>
+    <form>
+    <label for="Click">Click</label>
+    <input type="submit" id="Click"/>
+    </form>
+      <br>
+    <form>
+    <label for="Email">Correo</label>
+    <input type="email" id="email" name="Email" placeholder="Email"/>
+    </form>
+      <br>
+    <form>
+    <label for="Password">Contraseña</label>
+    <input type="password" id="password" name="password" placeholder="Password"/>
+    </form>
+      <br>
+    <form>
+    <label for="radio">Aceptar</label>
+    <input type="radio"/>
+    </form>
+      <br>
+    <form>
+    <label for="checkbox">Verdadero<label/>
+    <input type="checkbox"/><br>
+    <label for="checkbox">Falso<label/>
+    <input type="checkbox">
+    </form>    
     <h1>Primer encabezado o titulo</h1>
     <h2>Segundo encabezado o subtitulo</h2>
     <h3>Tercer encabezado</h3>
-    <h4>Cuarto encabezado</h4>
+    <h4>Cuarto encabezado</h4>o
     <h5>Quinto encabezado</h5>
     <h6>Sexto encabezado</h6>
     <p>EL MOMENTO ES AHORA (párrafo)</p>
