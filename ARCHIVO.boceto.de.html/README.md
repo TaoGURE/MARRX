@@ -4,8 +4,7 @@
     <title>mi primera web</title>
 <head>
 <body>
-       <h1>INGRESAR DATOS PERSONALES</h1>
-    <form action="/formulario" method="GET">
+    <form action="/formulario" method="POST">
     <label for="Nombre">Nombre</label>
     <input type="text" id="Nombre" name="nombre" placeholder="Nombre"/>
       <br>
