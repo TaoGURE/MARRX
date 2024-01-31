@@ -8,44 +8,30 @@
     <form>
     <label for="Nombre">Nombre</label>
     <input type="text" id="Nombre" name="nombre" placeholder="Nombre"/>
-    </form> 
       <br>
-    <form>
     <label for="Apellido">Apellido</label>
     <input type="text" id="apellido" name="apellido" placeholder="Apellido"/>
-    </form> 
       <br>
-    <form>
     <label for="Click"></label>
     <input type="submit" id="Click"/>
-    </form>
       <br>
-    <form>
     <label for="Email">Correo</label>
     <input type="email" id="email" name="Email" placeholder="Email"/>
-    </form>
       <br>
-    <form>
     <label for="Password">Contraseña</label>
     <input type="password" id="password" name="password" placeholder="Password"/>
-    </form>
       <br>
-    <form>
     <label for="radio">Aceptar</label>
     <input type="radio"/>
-    </form>
       <br>
-    <form>
     <label for="checkbox">Verdadero<label/>
-    <input type="checkbox"/><br><br>
+    <input type="checkbox"/><br>
     <label for="checkbox">Falso<label/>
     <input type="checkbox">
-    </form> <br>
-    <form>
     <br>
     <label for="file">Archivo</label>
     <input type="file">
-    </form><br>
+    </form>
     <br>
     <h1>Primer encabezado o titulo</h1>
     <h2>Segundo encabezado o subtitulo</h2>
