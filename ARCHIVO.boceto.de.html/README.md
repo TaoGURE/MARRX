@@ -44,7 +44,7 @@
     <img src="img/zoro.jpg" alt="zoro roronoa" height="1300">
     <br>
     <br>
-   <h3> Extensiones de (input; type) para formularios; (form; action= y method=) obligatorio que vaya con form</h3>
+   <h3> Extensiones de (input; type) para formularios; (form; action= y method=) obligatorio que vaya con form; acciones de type (text, submit, radio, checkbox, email, password, file) </h3>
     <form>
     <label for="radio">Aceptar</label>
     <input type="radio"/>
