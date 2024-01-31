@@ -20,6 +20,6 @@
     <!--Este texto es un COMENTARIO y nova aparecer en el explorador-->
     <a href="https://www.google.com.pe">Ir a Google</a><br>
     <a target="_blank" href="https://www.facebook.com">Ir a Facebook</a>
-    <img src="img/zoro.jpg">
+    <img src="img/zoro.jpg" height="1300">
 </body>
 </html>
