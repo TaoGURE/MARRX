@@ -14,36 +14,36 @@
    <td>12$</td>
 </tr>
 <tr>
-   <td>pollo</td>
-   <td>12$</td>
+   <td>chancho</td>
+   <td>15$</td>
 </tr>
 <tr>
-   <td>pollo</td>
-   <td>12$</td>
+   <td>cocodrilo</td>
+   <td>356$</td>
 </tr>
 <tr>
-   <td>pollo</td>
-   <td>12$</td>
+   <td>carachama</td>
+   <td>57$</td>
 </tr>
 <tr>
-   <td>pollo</td>
-   <td>12$</td>
+   <td>erizo de mar</td>
+   <td>467$</td>
 </tr>
 <tr>
-   <td>pollo</td>
-   <td>12$</td>
+   <td>perro lagarto v:</td>
+   <td>570$</td>
 </tr>
 <tr>
-   <td>pollo</td>
-   <td>12$</td>
+   <td>tiburón</td>
+   <td>853$</td>
 </tr>
 <tr>
-   <td>pollo</td>
-   <td>12$</td>
+   <td>gargola</td>
+   <td>1668$</td>
 </tr>
 <tr>
-   <td>pollo</td>
-   <td>12$</td>
+   <td>pegazo</td>
+   <td>5788$</td>
 </tr>
 </table>
 <!--ul es lista no ordenada-->
