@@ -21,9 +21,22 @@
     <li>elemento 5</li>
     <li>
      <ol>
+       <li>elemento 1</li>
        <li style="list-style-type: lower-alpha;">elemento 1</li>
-       <li>elemento 1</li>
-       <li>elemento 1</li>
+       <li style="list-style-type: lower-greek;">elemento 1</li>
+       <li style="list-style-type: lower-latin;">elemento 1</li>
+       <li style="list-style-type: lower-roman;">elemento 1</li><br>
+       <li style="list-style-type: lower-alpha;">elemento 1</li>
+       <li style="list-style-type: lower-alpha;">elemento 1</li>       
+       <li style="list-style-type: lower-alpha;">elemento 1</li>
+       <li style="list-style-type: lower-alpha;">elemento 1</li>
+       <li style="list-style-type: lower-alpha;">elemento 1</li>       
+       <li style="list-style-type: lower-alpha;">elemento 1</li>
+       <li style="list-style-type: lower-alpha;">elemento 1</li>
+       <li style="list-style-type: lower-alpha;">elemento 1</li>
+       <li style="list-style-type: lower-alpha;">elemento 1</li>
+       <li style="list-style-type: lower-alpha;">elemento 1</li>
+       <li style="list-style-type: lower-alpha;">elemento 1</li>
      </ol>
     </li>
   </ol>
