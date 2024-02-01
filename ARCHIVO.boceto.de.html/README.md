@@ -14,7 +14,9 @@
     <label for="comentario">COMENTARIO</label><br>
     <textarea cols="50" rows="10" id="comentario" placeholder="comentario" name="comentario">este es un valor por defecto</textarea>
     <br>
-    <input type="submit"/> 
+    <button type="button">tipo botón</button>
+    <button type="reset">tipo reset</button>
+    <button type="submit">tipo submit</button>
     </form>
     <hr>
     <h1>Primer encabezado o titulo</h1>
@@ -62,6 +64,7 @@
       <br>
     <label for="file">Archivo</label>
     <input type="file">
+    <input type="submit"/> 
     <br>
     </form>
 </body>
