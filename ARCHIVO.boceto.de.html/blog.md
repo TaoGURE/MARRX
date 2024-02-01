@@ -20,6 +20,12 @@
     <img src="img/ice.jpeg" width="400"/>
     <p>texto del artículo que se muestra en la parte de arriba, TEXTO DE PRUEBA</p>
     </article>
+    <article> 
+    <h2>título de mi post 3</h2>
+    <p>descripción de mi post3</p>
+    <img src="img/chacal.jpg" width="400"/>
+    <p>texto del artículo que se muestra en la parte de arriba, TEXTO DE PRUEBA</p>
+    </article>
     </section>
     <footer></footer>
 </body>
