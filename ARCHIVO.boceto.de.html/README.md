@@ -52,7 +52,7 @@
 </tr>
 </table>
 <br>
-<table style="border: 1px solid black;">
+<table>
 <tr>
    <th>producto</th>
    <th>precio</th>
