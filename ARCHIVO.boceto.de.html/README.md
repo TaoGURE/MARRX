@@ -4,7 +4,7 @@
     <title>mi primera web</title>
 <head>
 <body>
-<table>
+<table style="border: 1px solid black;">
 <tr>
    <th>producto</th>
    <th>precio</th>
