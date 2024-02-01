@@ -9,11 +9,14 @@
     </style>
 <head>
 <body>
-<table>
-<tr>
-   <th>producto</th>
-   <th>precio</th>
-</tr>
+<table style="width: 500px;">
+   <thead>
+     <tr>
+        <th>producto</th>
+        <th>precio</th>
+     </tr>
+   </thead>
+   <tbody>
 <tr>
    <td>pollo</td>
    <td>12$</td>
@@ -50,6 +53,11 @@
    <td>pegazo</td>
    <td>5788$</td>
 </tr>
+</tbody>
+<tfoot>
+    <td></td>
+    <td>total:123456$</td>
+</tfoot>
 </table>
 <br>
 <table>
