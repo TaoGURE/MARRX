@@ -4,6 +4,48 @@
     <title>mi primera web</title>
 <head>
 <body>
+<table>
+<tr>
+   <th>producto</th>
+   <th>precio</th>
+</tr>
+<tr>
+   <td>pollo</td>
+   <td>12$</td>
+</tr>
+<tr>
+   <td>pollo</td>
+   <td>12$</td>
+</tr>
+<tr>
+   <td>pollo</td>
+   <td>12$</td>
+</tr>
+<tr>
+   <td>pollo</td>
+   <td>12$</td>
+</tr>
+<tr>
+   <td>pollo</td>
+   <td>12$</td>
+</tr>
+<tr>
+   <td>pollo</td>
+   <td>12$</td>
+</tr>
+<tr>
+   <td>pollo</td>
+   <td>12$</td>
+</tr>
+<tr>
+   <td>pollo</td>
+   <td>12$</td>
+</tr>
+<tr>
+   <td>pollo</td>
+   <td>12$</td>
+</tr>
+</table>
 <!--ul es lista no ordenada-->
   <ul>
     <li>elemento 1</li>
