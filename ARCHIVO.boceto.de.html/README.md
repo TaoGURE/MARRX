@@ -2,9 +2,14 @@
 <html>
 <head>
     <title>mi primera web</title>
+    <style>
+      table, tr, td {
+      border: 1px solid black;
+      }
+    </style>
 <head>
 <body>
-<table style="border: 1px solid black;">
+<table>
 <tr>
    <th>producto</th>
    <th>precio</th>
@@ -44,6 +49,29 @@
 <tr>
    <td>pegazo</td>
    <td>5788$</td>
+</tr>
+</table>
+<br>
+<table style="border: 1px solid black;">
+<tr>
+   <th>producto</th>
+   <th>precio</th>
+</tr>
+<tr>
+   <td>pollo</td>
+   <td>12$</td>
+</tr>
+<tr>
+   <td>chancho</td>
+   <td>15$</td>
+</tr>
+<tr>
+   <td>cocodrilo</td>
+   <td>356$</td>
+</tr>
+<tr>
+   <td>carachama</td>
+   <td>57$</td>
 </tr>
 </table>
 <!--ul es lista no ordenada-->
