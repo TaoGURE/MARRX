@@ -4,6 +4,7 @@
     <title>mi primera web</title>
 <head>
 <body>
+<!--ul es lista no ordenada-->
   <ul>
     <li>elemento 1</li>
     <li>elemento 2</li>
@@ -11,6 +12,7 @@
     <li>elemento 4</li>
     <li>elemento 5</li>
   </ul>
+<!--ul es lista ordenada-->
   <ol>
     <li>elemento 1</li>
     <li>elemento 2</li>
