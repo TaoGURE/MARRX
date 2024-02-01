@@ -14,11 +14,18 @@
   </ul>
 <!--ul es lista ordenada-->
   <ol>
-    <li>elemento 1</li>
+    <li value="50">elemento 1</li>
     <li>elemento 2</li>
     <li>elemento 3</li>
     <li>elemento 4</li>
     <li>elemento 5</li>
+    <li>
+     <ol>
+       <li style="list-style-type: lower-alpha;">elemento 1</li>
+       <li>elemento 1</li>
+       <li>elemento 1</li>
+     </ol>
+    </li>
   </ol>
     <form action="/formulario.php" method="POST">
     <label for="Nombre">Nombre</label>
