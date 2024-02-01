@@ -4,7 +4,21 @@
     <title>mi primera web</title>
 <head>
 <body>
-    <form action="/formulario" method="GET">
+  <ul>
+    <li>elemento 1</li>
+    <li>elemento 2</li>
+    <li>elemento 3</li>
+    <li>elemento 4</li>
+    <li>elemento 5</li>
+  </ul>
+  <ol>
+    <li>elemento 1</li>
+    <li>elemento 2</li>
+    <li>elemento 3</li>
+    <li>elemento 4</li>
+    <li>elemento 5</li>
+  </ol>
+    <form action="/formulario.php" method="POST">
     <label for="Nombre">Nombre</label>
     <input value="luana" type="text" id="Nombre" name="nombre" placeholder="Nombre"/>
       <br>
