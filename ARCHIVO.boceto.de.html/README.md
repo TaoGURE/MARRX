@@ -6,15 +6,15 @@
 <body>
     <form action="/formulario" method="GET">
     <label for="Nombre">Nombre</label>
-    <input type="text" id="Nombre" name="nombre" placeholder="Nombre"/>
+    <input value="luana" type="text" id="Nombre" name="nombre" placeholder="Nombre"/>
       <br>
     <label for="Apellido">Apellido</label>
-    <input type="text" id="apellido" name="apellido" placeholder="Apellido"/>
+    <input value="torres" type="text" id="apellido" name="apellido" placeholder="Apellido"/>
     <br>
     <label for="comentario">COMENTARIO</label><br>
-    <textarea cols="50" rows="10" id="comentario" placeholder="comentario" name="comentario"></textarea>
+    <textarea cols="50" rows="10" id="comentario" placeholder="comentario" name="comentario">este es un valor por defecto</textarea>
     <br>
-    <input type="submit"/>
+    <input type="submit"/> 
     </form>
     <hr>
     <h1>Primer encabezado o titulo</h1>
