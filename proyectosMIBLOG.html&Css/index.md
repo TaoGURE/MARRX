@@ -9,12 +9,12 @@
 </head>
 <body> 
       <header>
-          <h1 id="titulo">Blog de Tao feliz</1>
+          <h1>Blog de Tao</1>
       </header>
   <div>
       <p>soy un parrafo dentro de un div</p>
   </div>
-    <section>
+    <section class="container">
         <article class="post"> 
             <h2>título de mi post</h2>
                 <p>descripción de mi post</p>
