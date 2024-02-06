@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>  
 <head>
-        <title>titulo</title>
+        <title>Documento</title>
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="style.css">
 </head>
 <body> 
-      <header>
+      <header id="titulo">
           <h1>Blog de Tao</1>
       </header>
   <div>
@@ -35,8 +35,10 @@
         </article>
     </section>
     <footer>
-        <a href="#titulo">Ir al inicio</a><br>
+      <section>
+        <a href="#titulo">Ir al inicio</a>
         <a href="franbad@gmail.com">contactame aqui</a>
+      </section>
         <p>Copyright 2024</p>
     </footer>
 </body>
